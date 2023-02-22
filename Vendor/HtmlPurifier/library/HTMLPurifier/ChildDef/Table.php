@@ -158,7 +158,7 @@ class HTMLPurifier_ChildDef_Table extends HTMLPurifier_ChildDef
                             $collection[] = $token;
                             $tag_index++;
                         }
-                        continue;
+                        break;
                 }
             }
         }
