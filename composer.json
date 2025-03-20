@@ -8,6 +8,6 @@
 		"ezyang/htmlpurifier": "*"
 	},
 	"extra": {
-      "installer-name": "CakephpHtmlPurifier"
+      "installer-name": "HtmlPurifier"
     }
 }
